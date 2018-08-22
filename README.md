@@ -34,3 +34,6 @@ In the buttom of the page,there will be a “Pay Now” Button.When you will pre
 ![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/4.png?raw=true "Paypal screen")
 
 After successful payment, it will redirect to the Success URL with a Token Id send by PayPal and also payment status as completed.
+
+![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/7.png?raw=true "Paypal screen")
+
