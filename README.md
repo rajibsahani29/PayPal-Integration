@@ -1,1 +1,16 @@
 # PayPal-Integration
+
+PayPal Payment gateway is a Third-party Tool. For using this tool in our application we need to integrate the PayPal API in our Application. First of all for this we have to create an account on PayPal. So that we will get 2 accounts i.e., one for Buyer and another one for Seller.
+
+By logging the details, we can get API Details.so that we can use this API information in our application.
+
+
+
+Otherwise we can see the API Signature details by logging the Business Account. Go to Profile and Setting Link under Profile, its showed an Option on the left of the opened page “My selling tools”. When you clicked on that link it will show an option for API acess.After click on Update link, you will get an option Manage API credentials under PayPal API Tab, it will show a screen like this.
+
+
+We have implemented this Paypal Payment Gateway in our Spot the Ball Project.In this project,you have to do payment before play a game.
+After Login a user can see a page like this to purchase the credits to play a game.
+
+
+When we will click on Paypal Button,it will go to next page with amount for confirmation.
