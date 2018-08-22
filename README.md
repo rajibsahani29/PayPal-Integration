@@ -37,3 +37,5 @@ After successful payment, it will redirect to the Success URL with a Token Id se
 
 ![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/7.png?raw=true "Paypal screen")
 
+
+At the meantime, we have to update the Payment history of customer with Payment Status.
