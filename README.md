@@ -4,7 +4,7 @@ PayPal Payment gateway is a Third-party Tool. For using this tool in our applica
 
 By logging the details, we can get API Details.so that we can use this API information in our application.
 
-
+![Banner](https://github.com/rajibsahani29/PayPal-Integration/blob/master/Paypal1.png?raw=true "Banner")
 
 Otherwise we can see the API Signature details by logging the Business Account. Go to Profile and Setting Link under Profile, its showed an Option on the left of the opened page “My selling tools”. When you clicked on that link it will show an option for API acess.After click on Update link, you will get an option Manage API credentials under PayPal API Tab, it will show a screen like this.
 
