@@ -26,4 +26,9 @@ When we will click on Paypal Button,it will go to next page with amount for conf
 This amount will go to next page means Paypal Server.When we will click on Pay Now button,it will move to this Paypal Page.As well as in the button click,we will store all information in a temporary  table in database named as credit_history_temp.
 
 ![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/6.png?raw=true "Paypal screen")
+![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/3.png?raw=true "Paypal screen")
+
+In the buttom of the page,there will be a “Pay Now” Button.When you will press this button after fill all the information,it will be processed for payement.
+
+
 ![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/4.png?raw=true "Paypal screen")
