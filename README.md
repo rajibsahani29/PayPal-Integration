@@ -21,7 +21,7 @@ After Login a user can see a page like this to purchase the credits to play a ga
 
 When we will click on Paypal Button,it will go to next page with amount for confirmation.
 
-![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/2.png?raw=true "Paypal screen")
+![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/6.png?raw=true "Paypal screen")
 
 This amount will go to next page means Paypal Server.When we will click on Pay Now button,it will move to this Paypal Page.As well as in the button click,we will store all information in a temporary  table in database named as credit_history_temp.
 
