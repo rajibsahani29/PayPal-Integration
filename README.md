@@ -39,3 +39,13 @@ After successful payment, it will redirect to the Success URL with a Token Id se
 
 
 At the meantime, we have to update the Payment history of customer with Payment Status.
+
+In our application,we have to do some settings in Web.config.First of all we have to configure  PayPalCoreSDK.dll in our Application.Then we have to Fix some settings in Web.config File.We have to give the API Details under PayPal Setting.
+
+![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/8.png?raw=true "Paypal screen")
+
+![Paypal screen](https://github.com/rajibsahani29/PayPal-Integration/blob/master/9.png?raw=true "Paypal screen")
+
+In which Currency we have to show in our Application, we have to fix that in our application. Here also we can set Success and Failure URL. Means on successful Payment which page to Redirect and on Failure payment which page to Redirect.
+
+
